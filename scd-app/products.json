@@ -1,0 +1,157 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Lowland Bogs Peat Smoked Dark Pils",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "dette er den lange beskrivende tekst",
+            "related": "andre relaterende produkter"
+        },
+    
+        {
+            "id": 2,
+            "title": "Balder, Agave Gluten Free IPA",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "Gluten Free IPA. Brewed with lots of bitterness using American hops, like Cascade, Nugget and Simcoe. Dryhopped the hell out of i",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+        {
+            "id": 3,
+            "title": "Gleipner",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "A new beer style from the North American continent. Black as a porter and hoppy as an IPA. Called a Cascadian dark ale or a Black IPA. The term “Cascadia” comes from the Cascade Mountain Range, which includes the area around British Columbia, Washington, Oregon, western Idaho and northern California. The taste is a mix of hops notes as: resin, pines , citrus and balanced against the dark malts giving notes such as chocolate and mild coffee. With carefully selected powerful hop varieties from the Americas, added dark malts, this beer achieves a delicious balance between hop aroma and malt fullness. Fermented at a temperature that allows the yeast to form fruity esters which provides a soft balance between the dark malts and hops. Should be enjoyed at 10-12°C, (50-54°F) in a Munkebo glass that highlights the aroma of American hops.",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+    
+        {
+            "id": 4,
+            "title": "Ragnarok",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "This Strong English Porter is brewed with lots of dark malts which gives the porter its dark brown color and deep intense flavor. The dark roasted malts provide a nice aftertaste of chocolate and coffee. An authentic porter from the time at a British ports pub in the 1800s, way before yeast was cultivated and purified. Fermented with a unique blend of ale yeasts in addition to with various wild brettanomyces yeast strains and fermented slightly warmer to mimic an old-fashioned fermentation in open vats. Together, they provide a wonderful taste with an aroma of stables, horse and leather. Should be served at 8-10 degrees Celsius (46-50°F), which will intensify the flavor of the fruitiness and malt sweetness. The aroma from the unique blend of different types of yeast, become more dominant as the beer warms up and fills the glass with scents of stable and leather.",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+    
+        {
+            "id": 5,
+            "title": "Valhal",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "This Strong English Porter is brewed with lots of dark malts which gives the porter its dark brown color and deep intense flavor. The dark roasted malts provide a nice aftertaste of chocolate and coffee. An authentic porter from the time at a British ports pub in the 1800s, way before yeast was cultivated and purified. Fermented with a unique blend of ale yeasts in addition to with various wild brettanomyces yeast strains and fermented slightly warmer to mimic an old-fashioned fermentation in open vats. Together, they provide a wonderful taste with an aroma of stables, horse and leather. Should be served at 8-10 degrees Celsius (46-50°F), which will intensify the flavor of the fruitiness and malt sweetness. The aroma from the unique blend of different types of yeast, become more dominant as the beer warms up and fills the glass with scents of stable and leather.",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+        {
+            "id": 6,
+            "title": "Valhal",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "Single Hop Comet Pale Ale is brewed in an experiment with Hallertauer Comet hops, which gives a delicious aroma and taste of bitterness, coniferous forest and citrus. Brewed as an American Pale Ale with a bright and light malt based, fermented with an American yeast, at a temperature which provides ease fruit esters during fermentation as balance for hops and malt profile.",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+        {
+            "id": 7,
+            "title": "Megingjord",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "The first beer is marketed as a barley wine and was brewed around the year of 1870. It’s called a barley wine because it is strong as wine, but brewed from grain rather than grapes. The British invented Barleywine when Napoleon stopped the export of wine during the Napoleon Wars. The British brewers invented this style as a replacement by brewing a strong beer without too much hops. This barley wine is brewed with plenty of caramel malt, rye and melanoidin malt which gives a lovely hint of caramel and honey. Long-term lagered with French oak gives it a nice aftertaste of oak and vanilla. Fermented at a temperature that allows the yeast to form fruity esters which provides a soft balance between alcohol, French oak and hops. Should be enjoyed at 10-12°C, (50-54°F) in a Munkebo glass highlighting smells like caramel, honey and vanilla.",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+        {
+            "id": 8,
+            "title": "Folkvang",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "Weißbier is a Bavarian beer, where a significant proportion of malt is wheat. The tradition goes way back in the Bavarian brewing history, however in northern Germany, it is better known as hefeweizen. The style is especially known for its low hop bitterness and relatively high carbon dioxide, which is important to balance the beer’s malt sweetness. It is normal with a firm, creamy and long-lasting foam. It is fermented with a special South German yeast at higher fermentation temperatures, which gives beautiful notes of clove and banana. A wonderful beer that should be enjoyed in a large glass so the aroma of banana and clove can fill the glass. Served with fish and other light dishes. The slight hop bitterness provides a refreshing and highly drinkable beer. Served unfiltered at 5-7 degrees Celsius, (41-44°F).",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+    
+        {
+            "id": 9,
+            "title": "Sif",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "The history of Tripel is placed in Belgium, around 1930 when the first golden strong pale ale was brewed by Three Lindens brewery. They were trying to compete against the highly popular pilsner from Plzeň in the Czech Republic. They also assisted the monks at the Trappist brewery Westmalle, who also brewed their version of a triple. The brewmaster at Westmalle changed the recipe in 1956 by adding more hops and from there the triple became what we know today. The name triple may come from its alcohol strength as: X for the weakest strength, medium strength XX and XXX for the strongest beer, equivalent to 3% by volume, 6 % by volume and 9% vol. It is fermented with fresh Belgian Trappist yeast combined with a good handful of bitter hops, lots of Belgian malt and cane sugar. The beer should be enjoyed at 10-12°C, (50-54°F) in a Munkebo glass to highlight the beer’s amazing aroma and taste of Belgian fruit esters and hops flowery fragrance.",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+    
+        {
+            "id": 10,
+            "title": "Viking King / Ladbykongens Øl",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "beer",
+            "description": "Porter is a dark ale that has its origins in 1600s London. A porter was cheaper than other beers available at the time and was therefore very popular among London porters and dockers, geving its name. This powerful porter is brewed with lots of dark malts that give the concierge its dark brown color and deep intense flavor. The dark roasted malts gives a nice aftertaste of chocolate and coffee.",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        {
+            "id": 11,
+            "title": "PRE-SALES G1: ORGANIC CLASSIC OLD WORLD CRAFT GIN",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "Gin",
+            "description": "Aromaen er riglige noter fra enebær, smagen er klassisk gin og perfekt til cocktails.  Denne gin har meget fokus på enebær, senere kommer mindre noter fra citrus og appelsin. Mængde pr. flaske 500 ml. 40% alk. Ved bestilling, får du tilsendt et købsbevis, som er et nummereret certifikat og har værdi af en flaske, som kan afhentes eller sendes med fragt. Flasken forventes klar i løbet af 2021. ",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+        {
+            "id": 12,
+            "title": "PRE-SALES G2: ORGANIC DOUBLE INFUSED CITRUS AND ORANGE CRAFT GIN",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "Gin",
+            "description": "Navn: Thor's Bifröst Journey. Aromaen har dominerende noter fra appelsin og citrus. Smag er tydlige noter fra enebær med lange dvælende noter af appelsinskal og citrus. Perfekt til milde tonics og aromatiske GT cocktails. Ved bestilling, får du tilsendt et købsbevis, som er et nummereret certifikat og har værdi af en flaske, som kan afhentes eller sendes med fragt. Flasken forventes klar i løbet af 2021.   ",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+        {
+            "id": 13,
+            "title": "PRE-SALES G3: ORGANIC ROASTED HAZELNUT CRAFT GIN",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "Gin",
+            "description": "Navn: Yggdrasil's Love Affair Aroma er citrus med lidt noter fra ristede hasselnødder. Smagen er krydret med enebær med lige noter fra appelsin / citrus / hasselnød. Langvarige baggrundsnoter fra hasselnødder og citrus. Mængde pr. flaske 500 ml. 40% alk. Ved bestilling, får du tilsendt et købsbevis, som er et nummereret certifikat og har værdi af en flaske, som kan afhentes eller sendes med fragt. Flasken forventes klar i løbet af 2021.",
+            "related": "andre relaterende produkter"
+        },
+    
+    
+        {
+            "id": 14,
+            "title": "G4: ORGANIC CRANBERRY CHRISTMAS CRAFT GIN",
+            "date": "April 07, 2021 3:32:21 AM",
+            "alcoholType": "Gin",
+            "description": "Navn: Valhalla's Golden Snowflakes Beskrivelse: Aroma er enebær med et strejf af tranebær. Smagen starter med citrus med en fin eftersmag af enebær/tranebærnote. Perfekt til jule-månederne. Mængde pr. flaske 500 ml. Flasken er klar til afsendelse/afhentning omkring fredag 11 december.",
+            "related": "andre relaterende produkter"
+        }
+    ]
+}
